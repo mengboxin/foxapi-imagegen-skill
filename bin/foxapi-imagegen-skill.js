@@ -14,7 +14,7 @@ function printUsage() {
   console.log(`FoxAPI Imagegen Skill installer
 
 Usage:
-  npx --yes mengboxin/foxapi-imagegen-skill setup --force
+  npx mengboxin/foxapi-imagegen-skill setup --force
   npx --yes https://course.foxapi.cn/f.tgz
   npx --yes foxapi-imagegen-skill install
   npx --yes foxapi-imagegen-skill path

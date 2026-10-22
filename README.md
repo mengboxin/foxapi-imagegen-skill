@@ -5,7 +5,7 @@ This release installs a FoxAPI image-generation skill with prebuilt Go clients. 
 ## Install
 
 ~~~powershell
-npx --yes mengboxin/foxapi-imagegen-skill setup --force
+npx mengboxin/foxapi-imagegen-skill setup --force
 ~~~
 
 The command installs the latest version from this public GitHub repository, replaces the skill files, and prompts once to save a FoxAPI API key locally. Restart Codex after installation.
