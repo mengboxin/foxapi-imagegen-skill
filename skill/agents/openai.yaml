@@ -1,0 +1,7 @@
+interface:
+  display_name: "FoxAPI Imagegen"
+  short_description: "FoxAPI Responses and Images API generation"
+  default_prompt: "For every image generation or image editing request, use $foxapi-imagegen through FoxAPI and never use the built-in image_gen tool."
+
+policy:
+  allow_implicit_invocation: true

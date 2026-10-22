@@ -1,0 +1,18 @@
+{
+  "name": "foxapi-imagegen-skill",
+  "version": "0.1.4",
+  "description": "FoxAPI image generation skill with prebuilt Go clients, dynamic model discovery, and Responses/Images API support.",
+  "bin": {
+    "foxapi-imagegen-skill": "bin/foxapi-imagegen-skill.js"
+  },
+  "files": [
+    "bin",
+    "skill",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=16"
+  },
+  "license": "MIT",
+  "preferGlobal": false
+}
